@@ -1,1 +1,6 @@
-{"account": "", "user": "", "password": ""}
+{
+    "account": "",
+    "user": "",
+    "password": "",
+    "token": ""
+}
